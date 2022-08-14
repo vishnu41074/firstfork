@@ -14,4 +14,7 @@ g = 0
 print(g)
 # Comment
 
+e = 'something'
+#kwnjrengej
+
 print()
