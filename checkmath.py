@@ -16,3 +16,5 @@ print(g)
 
 e = 'something'
 #kwnjrengej
+
+print()
