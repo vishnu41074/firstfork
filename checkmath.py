@@ -10,3 +10,6 @@ pi = 'some'
 d = {'Name':'Some', 'Score':52}
 
 g = 0
+
+print(g)
+# Comment
